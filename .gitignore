@@ -32,3 +32,12 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# Sketch, Figma, XD design files
+*.sketch
+*.fig
+*.xd
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+.prettierignore
